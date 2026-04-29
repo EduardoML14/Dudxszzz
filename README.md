@@ -47,6 +47,18 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
       <br>Linux
     </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
+      <br>Power BI
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40"/>
+      <br>Salesforce
+    </td>
   </tr>
 </table>
 
