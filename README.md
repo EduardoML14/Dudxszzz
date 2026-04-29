@@ -36,6 +36,14 @@
       <br>SQLite
     </td>
     <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="80">
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg?raw=true" height="40"/>
       <br>Postman
     </td>
